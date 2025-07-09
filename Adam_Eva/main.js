@@ -17,14 +17,6 @@ human2.setWeight(50);
 human2.getWeight();
 
 human1.checkApple(apple1);
+human2.checkApple(apple1);
 human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
-human1.eat();
+human2.eat();
